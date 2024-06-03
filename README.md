@@ -16,8 +16,11 @@ Stop words, TF-IDF and pre-trained embeddings, with KMeans clustering
 News topics are significantly skewed due to the overwhelming number of sports-related articles; splitting clustering and analysis into two catgeories (sports and non-sports) was necessary to obtain any usable clustering results.
 
 ## Example Successful Clusters
+Samsung and Apple
 ![Example Cluster 1](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/example_cluster1.PNG?raw=true)
 
+Manchester
 ![Example Cluster 2](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/example_cluster3.PNG?raw=true)
 
+Nintendo Switch Games
 ![Example Cluster 3](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/example_cluster2.PNG?raw=true)
