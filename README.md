@@ -18,6 +18,6 @@ News topics are significantly skewed due to the overwhelming number of sports-re
 ## Example Successful Clusters
 ![Example Cluster 1](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/example_cluster1.PNG?raw=true)
 
-![Example Cluster 2](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/example_cluster2.PNG?raw=true)
+![Example Cluster 2](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/example_cluster3.PNG?raw=true)
 
-![Example Cluster 3](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/example_cluster3.PNG?raw=true)
+![Example Cluster 3](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/example_cluster2.PNG?raw=true)
