@@ -1,6 +1,7 @@
 # Project Description
 
-Goal: Experiment with APIs and clustering  
+Goal: Experiment with APIs and clustering    
+
 Method: Use natural language processing and clustering to seperate news headlines based on topics covered
 
 ## Chosen API
