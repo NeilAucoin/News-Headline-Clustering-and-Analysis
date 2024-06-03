@@ -18,10 +18,10 @@ News topics are significantly skewed due to the overwhelming number of sports-re
 K-means was likely not the best clustering method for this dataset and further experimenation with clustering methods could have yielded better results.
 
 Non-sports news cluster plots
-
+![News Cluster Plots](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/news_cluster_plots.PNG?raw=true)
 
 Sports news cluster plots
-
+![Sports Cluster Plots](https://github.com/NeilAucoin/News-Headline-Clustering-and-Analysis-Using-NLP/blob/main/Assets/sports_cluster_plots.PNG?raw=true)
 
 ## Example Successful Clusters
 Samsung and Apple
